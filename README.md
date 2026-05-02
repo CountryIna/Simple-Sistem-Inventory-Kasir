@@ -107,9 +107,9 @@ Ini adaah hasil setelah dijalankan di terminal:
 ---
 
 ## 🚀 Rencana Pengembangan
-**Versi 1:** Sistem Gudang sederhana (CRUD barang) -> ✔️
-**Versi 2:** Multi-user (Gudang & Kasir) + Sistem Transaksi -> ✔️
-**Versi 3:** Implementasi Web menggunakan Django
+- **Versi 1:** Sistem Gudang sederhana (CRUD barang) -> ✔️
+- **Versi 2:** Multi-user (Gudang & Kasir) + Sistem Transaksi -> ✔️
+- **Versi 3:** Implementasi Web menggunakan Django
 ---
 
 ## 🤝 Kontribusi
